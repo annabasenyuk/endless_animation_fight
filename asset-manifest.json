@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/endless_animation_fight/static/css/main.58c7b447.css",
+    "main.js": "/endless_animation_fight/static/js/main.b1489d62.js",
+    "index.html": "/endless_animation_fight/index.html",
+    "main.58c7b447.css.map": "/endless_animation_fight/static/css/main.58c7b447.css.map",
+    "main.b1489d62.js.map": "/endless_animation_fight/static/js/main.b1489d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c7b447.css",
+    "static/js/main.b1489d62.js"
+  ]
+}
