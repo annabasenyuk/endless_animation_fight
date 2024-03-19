@@ -1,4 +1,5 @@
 {
+  "homepage": "https://annabasenyuk.github.io/endless_animation_fight",
   "name": "endless_animation_fight",
   "version": "0.1.0",
   "private": true,
@@ -25,6 +26,8 @@
     }
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build $GH_TOKEN",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
